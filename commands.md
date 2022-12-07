@@ -24,3 +24,9 @@ git checkout dev # to switch to branch in subsequent runs
 git branch # to check total number of branches
 git pull origin dev
 
+To merge things to master
+git checkout master # move to master
+git merge develop
+git add .
+git commit -m "final merge"
+git push origin master
