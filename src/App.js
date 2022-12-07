@@ -15,6 +15,16 @@ function App() {
         <h3>playing</h3>
         <h1>Holla love kallam</h1>
         <h3>playing</h3>
+        <h1>Holla hate kallam</h1>
+        <h3>crying</h3>
+        <h1>Holla hate kallam</h1>
+        <h3>crying</h3>
+        <h1>Holla hate kallam</h1>
+        <h3>crying</h3>
+        <h1>Holla hate kallam</h1>
+        <h3>crying</h3>
+        <h1>Holla hate kallam</h1>
+        <h3>crying</h3>
       </header>
     </div>
   );
