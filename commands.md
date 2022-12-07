@@ -30,3 +30,7 @@ git merge develop
 git add .
 git commit -m "final merge"
 git push origin master
+
+# in merge conflits to roll back to master
+git fetch origin
+git reset --hard origin/master
