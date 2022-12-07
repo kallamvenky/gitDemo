@@ -20,5 +20,7 @@ To clone
 git clone https://github.com/kallamvenky/gitDemo.git # onetime
 git pull origin master # from subsequent runs
 git checkout -b dev # to create branch
+git checkout dev # to switch to branch in subsequent runs
 git branch # to check total number of branches
+git pull origin dev
 
